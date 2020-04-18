@@ -1,15 +1,14 @@
 class Dog
+  end
+
   fido = dog.new
+fido
 
   snoopy = dog.new
+snoopy
 
   lassie = dog.new
-end
-
-
+lassie
 
 class Person
-  adele_goldberg = person.new
-
-  alan_kay = person.new
 end
